@@ -1,6 +1,6 @@
-### Jaime Noreña 👋
+### Jaime Noreña 
 
-Soy un estudiante de ingenieria de sistemas, actualmente estoy aprendiendo java, y me gusta programar en c++ y c.
+##Estudiante de ingenieria de sistemas, actualmente estoy aprendiendo java, y me gusta programar en c++ y c.
 
 <!--
 **thetygerpotatto/thetygerpotatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
