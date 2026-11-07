@@ -13,6 +13,7 @@ I like working close to the metal (memory, sockets, rendering, performance), and
 - [GEIH_BI](https://github.com/thetygerpotatto/GEIH_BI): ETL + MongoDB data warehouse + BI dashboard over 3.4M survey records
 - [Gramable](https://github.com/thetygerpotatto/PMD): a formal grammar interpreter in C with hand-written data structures
 - [uvplace](https://github.com/thetygerpotatto/uvplace): a real-time multiplayer pixel canvas (Flask + WebSockets)
+- [uvfit](https://github.com/thetygerpotatto/uvfit): a React Native fitness app with Health Connect sync and a FastAPI + JWT backend
 
 🟢 **Open to junior backend roles, internships and freelance projects.**
-🌐 Portfolio: _coming soon_ · 💼 [LinkedIn](https://www.linkedin.com/in/your-user) · ✉️ letras.cj@gmail.com
+🌐 Portfolio: _coming soon_ · 💼 [LinkedIn](https://www.linkedin.com/in/jaime-andr%C3%A9s-nore%C3%B1a-552125261) · ✉️ letras.cj@gmail.com
