@@ -1,6 +1,6 @@
 ### Hi, I'm Jaime Noreña 👋
 
-**Backend developer**: C, systems and the web. Systems Engineering student at Universidad del Valle (Cali, Colombia), finishing my 8th semester.
+**Backend developer**: C, systems and the web. Systems Engineering student at Universidad del Valle (Zarzal, Colombia), finishing my 8th semester.
 
 I like working close to the metal (memory, sockets, rendering, performance), and I also build the APIs and web apps that sit on top.
 
