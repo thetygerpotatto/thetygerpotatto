@@ -16,4 +16,4 @@ I like working close to the metal (memory, sockets, rendering, performance), and
 - [uvfit](https://github.com/thetygerpotatto/uvfit): a React Native fitness app with Health Connect sync and a FastAPI + JWT backend
 
 🟢 **Open to junior backend roles, internships and freelance projects.**
-🌐 Portfolio: _coming soon_ · 💼 [LinkedIn](https://www.linkedin.com/in/jaime-andr%C3%A9s-nore%C3%B1a-552125261) · ✉️ letras.cj@gmail.com
+🌐 Portfolio: _coming soon_ · 💼 [LinkedIn](https://www.linkedin.com/in/jaime-andr%C3%A9s-nore%C3%B1a-552125261) · ✉️ jndevc@gmail.com
